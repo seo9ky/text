@@ -6,5 +6,4 @@ venv/
 data/
 logs/
 *.log
-*.txt
 *.json
